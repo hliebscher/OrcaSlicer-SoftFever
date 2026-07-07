@@ -18403,7 +18403,7 @@ msgid "We need information for diagnosing source of the issue. Check wiki page f
 msgstr "Wir benötigen Informationen zur Diagnose der Ursache des Problems. Überprüfen Sie die Wiki-Seite für eine detaillierte Anleitung."
 
 msgid "Pack button collects project file and logs of current session onto a zip file."
-msgstr "Die Schaltfläche Pack sammelt die Projektdatei und Protokolle der aktuellen Sitzung in einer ZIP-Datei."
+msgstr "Die Schaltfläche „Packen“ sammelt die Projektdatei und Protokolle der aktuellen Sitzung in einer ZIP-Datei."
 
 msgid "Any additional visual examples like images or screen recordings might be helpful while reporting the issue."
 msgstr "Zusätzliche visuelle Beispiele wie Bilder oder Bildschirmaufnahmen könnten beim Melden des Problems hilfreich sein."
